@@ -1,0 +1,31 @@
+  143  tar -xvf TP5.tar.gz
+  144  cd bash_tutorial-utn
+  145  instrucciones.pdf
+  146  cd bash_tutorial-utn:
+  147  cd
+  148  cd tp5
+  149  cd tp5_
+  150  cd tp5:
+  151  cd ejercicios:
+  152  cd ejercicios
+  252  cd ejercicio_3
+  253  cd data
+  254  ls -a
+  255  rm Y*
+  256  ls
+  257  rm Y
+  258  rm Y*
+  259  ls
+  260  rm _Y*
+  261  rm X_S_X_Y*
+  262  ls
+  263  rm A_X_X_X_Y*
+  264  rm X_X_X_I_X_Y*
+  265  ls
+  266  rm X_X_X_X_O_X_Y*
+  267  ls
+  268  rm X_Y*
+  269  rm
+  270  ls
+  271  cd ..
+  272  history>historial.txt

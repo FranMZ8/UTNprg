@@ -1,0 +1,88 @@
+  143  tar -xvf TP5.tar.gz
+  144  cd bash_tutorial-utn
+  145  instrucciones.pdf
+  146  cd bash_tutorial-utn:
+  147  cd
+  148  cd tp5
+  149  cd tp5_
+  150  cd tp5:
+  151  cd ejercicios:
+  152  cd ejercicios
+  153  cd ejercicio_1
+  154  ls
+  155  ls -a
+  156  cd
+  157  ls
+  158  ls -a
+  159  cd tp5
+  160  ls -a
+  161  cd bash_tutorial-utn
+  162  ls -a
+  163  cd ejercicios
+  164  ls
+  165  ls -a
+  166  cd ejercicio_1
+  167  ls
+  168  cd carpetaA
+  169  ls
+  170  ls -a
+  171  cd carpeta B
+  172  cd ..
+  173  cd carpetaB
+  174  ls
+  175  ls -a
+  176  source programa.sh
+  177  ./programa sh
+  178  /programa sh
+  179  /programa.sh
+  180  ./programa.sh
+  181  cd ..
+  182  cd carpetaC
+  183  ls -l
+  184  cd ..
+  185  cd ejercicio_2
+  186  ls
+  187  less solution_2.1.txt
+  188  cd ejercicios
+  189  cd ejercicio_1
+  190  ls -a
+  191  cd carpetaA
+  192  ls -a
+  193  cd talvez_aca
+  194  ls -a
+  195  cd ..
+  196  cd carpetaB
+  197  ls -a
+  198  cd solution_1.1
+  199  ls -a
+  200  cd ..
+  201  source programa.sh
+  202  cd ..
+  203  cd carpetaC
+  204  ls -a
+  205  ls -l
+  206  cd ..
+  207  cd ejercicio_2
+  208  ls -a
+  209  less solution_2.1.txt
+  210  cd ejercicios
+  211  cd ejercicio_2
+  212  ls -a
+  213  nano la_da
+  214  ls -a
+  215  nano la_da
+  216  ls -a
+  217  cd ..
+  218  cd ejercicio_3
+  219  ls -a
+  220  mkdir solucion
+  221  ls -a
+  222  cd solucion
+  223  cp code1 solucion
+  224  cd ..
+  225  cp code1 solucion
+  226  cp -r code1/UIMGELGKBCUF.txt solucion
+  227  cp -r code2/___+______+_.txt solucion
+  228  cd solucion
+  229  ls -a
+  230  history>historial.txt

@@ -1,0 +1,40 @@
+  143  tar -xvf TP5.tar.gz
+  144  cd bash_tutorial-utn
+  145  instrucciones.pdf
+  146  cd bash_tutorial-utn:
+  243  cd ejercicio_4
+  244  ls -a
+  245  diff ai.txt artificial_intelligence.txt
+  246  less elephant.txt | sort
+  247  grep fire datascience.txt
+  248  cd ..
+  249  cd ejercicio_5
+  250  ls -a
+  251  unzip comprimido.zip
+  252  ls -a
+  253  tar -xf wrapped.tar
+  254  ls -a
+  255  cd solution
+  256  ls -a
+  257  gunzip solution.txt.gz
+  258  ls -a
+  259  less solution.txt
+  260  cd ejercicio_6
+  261  ls -a
+  262  ls -l
+  263  ./permissions.sh
+  264  df
+  265  df --help
+  266  df
+  267  df -all
+  268  df -a
+  269  env
+  270  export GIVEME ABCCHDEFGHIJKLMÑOPQRS
+  271  export GIVEME=ABCCHDEFGHIJKLMÑOPQRS
+  272  echo $GIVEME
+  273  echo $GIVEME | wc -m
+  274  man ping
+  275  ping
+  276  man ping
+  277  top
+  278  history>historial.txt
